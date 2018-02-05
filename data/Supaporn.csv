@@ -1,0 +1,46 @@
+SubjectID,SubjectName,weight,section,grade,term
+010123101,Introduction to Computer,1,1,B,1
+040203111,Engineering Mathematics I,3,6,C+,1
+040313005,Physic I,3,5,C+,1
+040313006,Physic Laboratory I,1,5,A,1
+080103001,English I,3,20,A,1
+080203901,Man and Society,3,1,A,1
+080303505,Table Tennis,1,2,B+,1
+010113011,Electric Circuit Lab,1,2,B+,2
+040203112,Engineering Mathematics II,3,5,C+,2
+040313007,Physic II,3,6,C+,2
+040313008,Physic Laboratory II,1,7,A,2
+080103002,English II,3,28,B+,2
+080303501,Basketball,1,6,B,2
+080303601,Human Relations,3,2,B+,2
+010123102,Programming Fundamentals,3,1,D,3
+010123105,Statistics For Computer Engineering,3,1,C,3
+010123106,Introduction to Signal and System,3,1,D,3
+010123107,Logic Design of Digital Systems,3,1,F,3
+010123108,Digital System Design Laboratory,1,1,C+,3
+040503001,Statistics in Everyday Life,3,14,B+,3
+010113010,Electric Circuit Theory,3,2,F,4
+010123103,Algorithms and Data Structure,3,1,C,4
+010123113,Data Communications,3,1,D,4
+040203100,General Mathematics,3,2,A,4
+080103016,English Conversation I,3,22,C+,4
+010113010,Electric Circuit Theory,3,1,D,5
+010123107,Logic Design of Digital Systems,3,1,D,5
+010123109,Building Software Systems I,3,1,B,5
+010123117,Operating Systems,3,1,D+,5
+010123118,Computer Networks,3,1,C+,5
+040313017,Exercise Skill and Sport,3,1,A,5
+010123110,Building Software Systems II,3,2,C,6
+010123111,High Level Design for Digital Systems,3,1,C+,6
+010123112,Computer Organization,3,1,D,6
+010123114,Analog and Digital Electronics,3,1,D,6
+010123211,Simulation and Modeling,3,1,C,6
+040313018,Human Body and Health,3,2,A,6
+080303401,Karaoke,1,9,C+,6
+010123115,Analog and Digital Electronics Laboratory,1,1,C+,7
+010123116,Software Engineering,3,1,C+,7
+010123119,Embedded System Design,3,1,D,7
+010123122,Project I,3,4,A,7
+010123205,Computer and Network Security,3,1,D,7
+010123217,Selected Topics in Computer I ,3,1,D,7
+080303104,Psychology for Work,3,2,A,7
