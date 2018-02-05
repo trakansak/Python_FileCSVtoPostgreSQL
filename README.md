@@ -6,7 +6,7 @@
 
 3.) Then, Fill in StudentID, FirstName, LastName
 
-4.) Then, Choose File CSV match name of student
+4.) Then, Choose File CSV(data/{name}.csv) match with name of student
 
 5.) Next, Go to main/autorun.bat
 
