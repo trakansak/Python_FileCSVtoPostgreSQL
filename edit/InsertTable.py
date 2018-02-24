@@ -41,7 +41,7 @@ def main():
 			except psycopg2.Error as error:
 				print("Error: {}".format(error))
 
-
+	# Check Status Completed
 	print ("Complete")
 	psycopg2_connection.commit()
 	psycopg2_connection.close()
