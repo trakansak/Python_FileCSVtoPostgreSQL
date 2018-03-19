@@ -16,7 +16,8 @@ def main():
     "DROP TABLE Student_Records CASCADE")
 
 	# Connect Database
-	psycopg2_connection = psycopg2.connect(dbname=dbName ,user='postgres', password='123456',port='3000')
+	psycopg2_connection = psycopg2.connect(dbname=dbName ,user='postgres',
+                                               password='123456',port='3000')
 	cursor = psycopg2_connection.cursor()
 	
 	# Alert Create Tables

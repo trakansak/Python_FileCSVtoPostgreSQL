@@ -11,7 +11,7 @@ def psql():
 			dbName = "postgres"
 
 			# Get student detail
-			studentId = random.randint(1000000000000, 9999999999999)
+			studentId = str(random.randint(50, 60)) + "010126" + str(random.randint(00000,99999))
 			studentFirstName =  names.get_first_name()
 			studentLastName = names.get_last_name()
 			letter = 'A','B','B+','C','C+','D+','D','F'
